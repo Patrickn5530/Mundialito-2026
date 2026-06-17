@@ -1,122 +1,122 @@
 {
   "A": {
     "partidos": [
-      { "eq1": "México", "eq2": "Corea del Sur", "g1": 2, "g2": 1, "fecha": "Jue 11 de Junio", "hora": "15:30" },
-      { "eq1": "Chequia", "eq2": "Sudáfrica", "g1": 1, "g2": 1, "fecha": "Vie 12 de Junio", "hora": "19:00" },
-      { "eq1": "México", "eq2": "Chequia", "g1": 0, "g2": 2, "fecha": "Mar 16 de Junio", "hora": "16:00" },
-      { "eq1": "Sudáfrica", "eq2": "Corea del Sur", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "20:00" },
-      { "eq1": "Sudáfrica", "eq2": "México", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "15:00" },
-      { "eq1": "Corea del Sur", "eq2": "Chequia", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "15:00" }
+      { "eq1": "México", "eq2": "Corea del Sur", "g1": 2, "g2": 1, "fecha": "Jue 11 de Junio", "hora": "19:00" },
+      { "eq1": "Chequia", "eq2": "Sudáfrica", "g1": "", "g2": "", "fecha": "Jue 11 de Junio", "hora": "10:00" },
+      { "eq1": "México", "eq2": "Chequia", "g1": 0, "g2": 2, "fecha": "Mié 24 de Junio", "hora": "19:00" },
+      { "eq1": "Sudáfrica", "eq2": "Corea del Sur", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "19:00" },
+      { "eq1": "Sudáfrica", "eq2": "México", "g1": 0, "g2": 2, "fecha": "Jue 11 de Junio", "hora": "15:00" },
+      { "eq1": "Corea del Sur", "eq2": "Chequia", "g1": 2, "g2": 1, "fecha": "Jue 11 de Junio", "hora": "15:00" }
     ]
   },
   "B": {
     "partidos": [
-      { "eq1": "Canadá", "eq2": "Bosnia y Herzegovina", "g1": 1, "g2": 0, "fecha": "Vie 12 de Junio", "hora": "14:00" },
-      { "eq1": "Catar", "eq2": "Suiza", "g1": 0, "g2": 2, "fecha": "Sáb 13 de Junio", "hora": "17:00" },
-      { "eq1": "Canadá", "eq2": "Catar", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "13:00" },
-      { "eq1": "Suiza", "eq2": "Bosnia y Herzegovina", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "18:00" },
-      { "eq1": "Suiza", "eq2": "Canadá", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "15:00" },
-      { "eq1": "Bosnia y Herzegovina", "eq2": "Catar", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "15:00" }
+      { "eq1": "Canadá", "eq2": "Bosnia y Herzegovina", "g1": 1, "g2": 1, "fecha": "Vie 12 de Junio", "hora": "14:00" },
+      { "eq1": "Catar", "eq2": "Suiza", "g1": 1, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "17:00" },
+      { "eq1": "Canadá", "eq2": "Catar", "g1": "", "g2": "", "fecha": "Jue 11 de Junio", "hora": "16:00" },
+      { "eq1": "Suiza", "eq2": "Bosnia y Herzegovina", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "13:00" },
+      { "eq1": "Suiza", "eq2": "Canadá", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "13:00" },
+      { "eq1": "Bosnia y Herzegovina", "eq2": "Catar", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "13:00" }
     ]
   },
   "C": {
     "partidos": [
-      { "eq1": "Brasil", "eq2": "Marruecos", "g1": 3, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "16:00" },
-      { "eq1": "Haití", "eq2": "Escocia", "g1": 0, "g2": 2, "fecha": "Sáb 13 de Junio", "hora": "20:00" },
-      { "eq1": "Brasil", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "15:30" },
-      { "eq1": "Escocia", "eq2": "Marruecos", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "19:00" },
-      { "eq1": "Escocia", "eq2": "Brasil", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "20:00" },
-      { "eq1": "Marruecos", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "20:00" }
+      { "eq1": "Brasil", "eq2": "Marruecos", "g1": 1, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "16:00" },
+      { "eq1": "Haití", "eq2": "Escocia", "g1": 0, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "20:00" },
+      { "eq1": "Brasil", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "18:30" },
+      { "eq1": "Escocia", "eq2": "Marruecos", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "16:00" },
+      { "eq1": "Escocia", "eq2": "Brasil", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" },
+      { "eq1": "Marruecos", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" }
     ]
   },
   "D": {
     "partidos": [
-      { "eq1": "Estados Unidos", "eq2": "Paraguay", "g1": 2, "g2": 0, "fecha": "Vie 12 de Junio", "hora": "19:00" },
-      { "eq1": "Australia", "eq2": "Turquía", "g1": 1, "g2": 2, "fecha": "Sáb 13 de Junio", "hora": "13:00" },
-      { "eq1": "Estados Unidos", "eq2": "Australia", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "18:00" },
-      { "eq1": "Turquía", "eq2": "Paraguay", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "14:00" },
-      { "eq1": "Turquía", "eq2": "Estados Unidos", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" },
-      { "eq1": "Paraguay", "eq2": "Australia", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" }
+      { "eq1": "Estados Unidos", "eq2": "Paraguay", "g1": 4, "g2": 1, "fecha": "Vie 12 de Junio", "hora": "19:00" },
+      { "eq1": "Australia", "eq2": "Turquía", "g1": 2, "g2": 0, "fecha": "Sáb 13 de Junio", "hora": "13:00" },
+      { "eq1": "Estados Unidos", "eq2": "Australia", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "13:00" },
+      { "eq1": "Turquía", "eq2": "Paraguay", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "21:00" },
+      { "eq1": "Turquía", "eq2": "Estados Unidos", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" },
+      { "eq1": "Paraguay", "eq2": "Australia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" }
     ]
   },
   "E": {
     "partidos": [
-      { "eq1": "Alemania", "eq2": "Curazao", "g1": 4, "g2": 0, "fecha": "Dom 14 de Junio", "hora": "14:00" },
-      { "eq1": "Costa de Marfil", "eq2": "Ecuador", "g1": 1, "g2": 2, "fecha": "Dom 14 de Junio", "hora": "18:00" },
-      { "eq1": "Alemania", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "15:30" },
-      { "eq1": "Ecuador", "eq2": "Curazao", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "19:00" },
-      { "eq1": "Ecuador", "eq2": "Alemania", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "20:00" },
-      { "eq1": "Curazao", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "20:00" }
+      { "eq1": "Alemania", "eq2": "Curazao", "g1": 7, "g2": 1, "fecha": "Dom 14 de Junio", "hora": "14:00" },
+      { "eq1": "Costa de Marfil", "eq2": "Ecuador", "g1": 1, "g2": 0, "fecha": "Dom 14 de Junio", "hora": "18:00" },
+      { "eq1": "Alemania", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "14:00" },
+      { "eq1": "Ecuador", "eq2": "Curazao", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "18:00" },
+      { "eq1": "Ecuador", "eq2": "Alemania", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "14:00" },
+      { "eq1": "Curazao", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "14:00" }
     ]
   },
   "F": {
     "partidos": [
-      { "eq1": "Países Bajos", "eq2": "Japón", "g1": 1, "g2": 1, "fecha": "Lun 15 de Junio", "hora": "13:00" },
-      { "eq1": "Suecia", "eq2": "Túnez", "g1": 2, "g2": 0, "fecha": "Lun 15 de Junio", "hora": "17:00" },
-      { "eq1": "Países Bajos", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "16:00" },
-      { "eq1": "Túnez", "eq2": "Japón", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "20:00" },
-      { "eq1": "Túnez", "eq2": "Países Bajos", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "15:00" },
-      { "eq1": "Japón", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "15:00" }
+      { "eq1": "Países Bajos", "eq2": "Japón", "g1": 2, "g2": 2, "fecha": "Dom 14 de Junio", "hora": "13:00" },
+      { "eq1": "Suecia", "eq2": "Túnez", "g1": 5, "g2": 1, "fecha": "Dom 14 de Junio", "hora": "17:00" },
+      { "eq1": "Países Bajos", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "11:00" },
+      { "eq1": "Túnez", "eq2": "Japón", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "22:00" },
+      { "eq1": "Túnez", "eq2": "Países Bajos", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "17:00" },
+      { "eq1": "Japón", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "17:00" }
     ]
   },
   "G": {
     "partidos": [
-      { "eq1": "Bélgica", "eq2": "Egipto", "g1": 2, "g2": 0, "fecha": "Lun 15 de Junio", "hora": "20:00" },
-      { "eq1": "Irán", "eq2": "Nueva Zelanda", "g1": 1, "g2": 0, "fecha": "Mar 16 de Junio", "hora": "13:00" },
-      { "eq1": "Bélgica", "eq2": "Irán", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "13:00" },
-      { "eq1": "Nueva Zelanda", "eq2": "Egipto", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "17:00" },
-      { "eq1": "Nueva Zelanda", "eq2": "Bélgica", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" },
-      { "eq1": "Egipto", "eq2": "Irán", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" }
+      { "eq1": "Bélgica", "eq2": "Egipto", "g1": 1, "g2": 1, "fecha": "Lun 15 de Junio", "hora": "20:00" },
+      { "eq1": "Irán", "eq2": "Nueva Zelanda", "g1": 2, "g2": 2, "fecha": "Lun 15 de Junio", "hora": "13:00" },
+      { "eq1": "Bélgica", "eq2": "Irán", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "13:00" },
+      { "eq1": "Nueva Zelanda", "eq2": "Egipto", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "19:00" },
+      { "eq1": "Nueva Zelanda", "eq2": "Bélgica", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "21:00" },
+      { "eq1": "Egipto", "eq2": "Irán", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "21:00" }
     ]
   },
   "H": {
     "partidos": [
-      { "eq1": "España", "eq2": "Cabo Verde", "g1": 3, "g2": 0, "fecha": "Mar 16 de Junio", "hora": "16:00" },
-      { "eq1": "Arabia Saudita", "eq2": "Uruguay", "g1": 1, "g2": 2, "fecha": "Mar 16 de Junio", "hora": "20:00" },
-      { "eq1": "España", "eq2": "Arabia Saudita", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "14:00" },
-      { "eq1": "Uruguay", "eq2": "Cabo Verde", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "19:00" },
-      { "eq1": "Uruguay", "eq2": "España", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "16:00" },
-      { "eq1": "Cabo Verde", "eq2": "Arabia Saudita", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "16:00" }
+      { "eq1": "España", "eq2": "Cabo Verde", "g1": 0, "g2": 0, "fecha": "Lun 15 de Junio", "hora": "16:00" },
+      { "eq1": "Arabia Saudita", "eq2": "Uruguay", "g1": 1, "g2": 1, "fecha": "Lun 15 de Junio", "hora": "20:00" },
+      { "eq1": "España", "eq2": "Arabia Saudita", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "10:00" },
+      { "eq1": "Uruguay", "eq2": "Cabo Verde", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "16:00" },
+      { "eq1": "Uruguay", "eq2": "España", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "18:00" },
+      { "eq1": "Cabo Verde", "eq2": "Arabia Saudita", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "18:00" }
     ]
   },
   "I": {
     "partidos": [
-      { "eq1": "Francia", "eq2": "Senegal", "g1": "", "g2": "", "fecha": "Mar 16 de Junio", "hora": "18:00" },
-      { "eq1": "Irak", "eq2": "Noruega", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "14:00" },
-      { "eq1": "Francia", "eq2": "Irak", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "19:00" },
-      { "eq1": "Noruega", "eq2": "Senegal", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "19:00" },
-      { "eq1": "Noruega", "eq2": "Francia", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "20:00" },
-      { "eq1": "Senegal", "eq2": "Irak", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "20:00" }
+      { "eq1": "Francia", "eq2": "Senegal", "g1": 3, "g2": 1, "fecha": "Mar 16 de Junio", "hora": "18:00" },
+      { "eq1": "Irak", "eq2": "Noruega", "g1": 1, "g2": 4, "fecha": "Mar 16 de Junio", "hora": "14:00" },
+      { "eq1": "Francia", "eq2": "Irak", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "15:00" },
+      { "eq1": "Noruega", "eq2": "Senegal", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "18:00" },
+      { "eq1": "Noruega", "eq2": "Francia", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "13:00" },
+      { "eq1": "Senegal", "eq2": "Irak", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "13:00" }
     ]
   },
   "J": {
     "partidos": [
       { "eq1": "Argentina", "eq2": "Argelia", "g1": 3, "g2": 0, "fecha": "Mar 16 de Junio", "hora": "15:30" },
       { "eq1": "Austria", "eq2": "Jordania", "g1": 3, "g2": 1, "fecha": "Mar 16 de Junio", "hora": "19:00" },
-      { "eq1": "Argentina", "eq2": "Austria", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "16:00" },
-      { "eq1": "Jordania", "eq2": "Argelia", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "16:00" },
-      { "eq1": "Jordania", "eq2": "Argentina", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "15:00" },
-      { "eq1": "Argelia", "eq2": "Austria", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "15:00" }
+      { "eq1": "Argentina", "eq2": "Austria", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "11:00" },
+      { "eq1": "Jordania", "eq2": "Argelia", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "21:00" },
+      { "eq1": "Jordania", "eq2": "Argentina", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "20:00" },
+      { "eq1": "Argelia", "eq2": "Austria", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "20:00" }
     ]
   },
   "K": {
     "partidos": [
-      { "eq1": "Portugal", "eq2": "RD Congo", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "15:00" },
-      { "eq1": "Uzbekistán", "eq2": "Colombia", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "19:00" },
-      { "eq1": "Portugal", "eq2": "Uzbekistán", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "15:00" },
-      { "eq1": "Colombia", "eq2": "RD Congo", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "15:00" },
-      { "eq1": "Colombia", "eq2": "Portugal", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "19:00" },
-      { "eq1": "RD Congo", "eq2": "Uzbekistán", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "19:00" }
+      { "eq1": "Portugal", "eq2": "RD Congo", "g1": 1, "g2": 1, "fecha": "Mié 17 de Junio", "hora": "15:00" },
+      { "eq1": "Uzbekistán", "eq2": "Colombia", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "20:00" },
+      { "eq1": "Portugal", "eq2": "Uzbekistán", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "11:00" },
+      { "eq1": "Colombia", "eq2": "RD Congo", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "20:00" },
+      { "eq1": "Colombia", "eq2": "Portugal", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "17:30" },
+      { "eq1": "RD Congo", "eq2": "Uzbekistán", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "17:30" }
     ]
   },
   "L": {
     "partidos": [
-      { "eq1": "Inglaterra", "eq2": "Croacia", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "13:00" },
-      { "eq1": "Ghana", "eq2": "Panamá", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "17:00" },
-      { "eq1": "Inglaterra", "eq2": "Ghana", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" },
-      { "eq1": "Panamá", "eq2": "Croacia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" },
-      { "eq1": "Panamá", "eq2": "Inglaterra", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "20:00" },
-      { "eq1": "Croacia", "eq2": "Ghana", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "20:00" }
+      { "eq1": "Inglaterra", "eq2": "Croacia", "g1": 3, "g2": 2, "fecha": "Mié 17 de Junio", "hora": "13:00" },
+      { "eq1": "Ghana", "eq2": "Panamá", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "17:00" },
+      { "eq1": "Inglaterra", "eq2": "Ghana", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "14:00" },
+      { "eq1": "Panamá", "eq2": "Croacia", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "17:00" },
+      { "eq1": "Panamá", "eq2": "Inglaterra", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "15:00" },
+      { "eq1": "Croacia", "eq2": "Ghana", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "15:00" }
     ]
   }
       }
