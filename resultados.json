@@ -111,7 +111,7 @@
   },
   "L": {
     "partidos": [
-      { "eq1": "Inglaterra", "eq2": "Croacia", "g1": 3, "g2": 2, "fecha": "Mié 17 de Junio", "hora": "13:00" },
+      { "eq1": "Inglaterra", "eq2": "Croacia", "g1": 4, "g2": 2, "fecha": "Mié 17 de Junio", "hora": "13:00" },
       { "eq1": "Ghana", "eq2": "Panamá", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "17:00" },
       { "eq1": "Inglaterra", "eq2": "Ghana", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "14:00" },
       { "eq1": "Panamá", "eq2": "Croacia", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "17:00" },
