@@ -3,7 +3,7 @@
     "partidos": [
       { "eq1": "México", "eq2": "Corea del Sur", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "19:00" },
       { "eq1": "Chequia", "eq2": "Sudáfrica", "g1": "", "g2": "", "fecha": "Jue 11 de Junio", "hora": "10:00" },
-      { "eq1": "México", "eq2": "Chequia", "g1": 0, "g2": 2, "fecha": "Mié 24 de Junio", "hora": "19:00" },
+      { "eq1": "México", "eq2": "Chequia", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "19:00" },
       { "eq1": "Sudáfrica", "eq2": "Corea del Sur", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "19:00" },
       { "eq1": "Sudáfrica", "eq2": "México", "g1": 0, "g2": 2, "fecha": "Jue 11 de Junio", "hora": "15:00" },
       { "eq1": "Corea del Sur", "eq2": "Chequia", "g1": 2, "g2": 1, "fecha": "Jue 11 de Junio", "hora": "15:00" }
