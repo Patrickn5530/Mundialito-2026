@@ -102,7 +102,7 @@
   "K": {
     "partidos": [
       { "eq1": "Portugal", "eq2": "RD Congo", "g1": 1, "g2": 1, "fecha": "Mié 17 de Junio", "hora": "15:00" },
-      { "eq1": "Uzbekistán", "eq2": "Colombia", "g1": "", "g2": "", "fecha": "Mié 17 de Junio", "hora": "20:00" },
+      { "eq1": "Uzbekistán", "eq2": "Colombia", "g1": 1, "g2": 3, "fecha": "Mié 17 de Junio", "hora": "20:00" },
       { "eq1": "Portugal", "eq2": "Uzbekistán", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "11:00" },
       { "eq1": "Colombia", "eq2": "RD Congo", "g1": "", "g2": "", "fecha": "Mar 23 de Junio", "hora": "20:00" },
       { "eq1": "Colombia", "eq2": "Portugal", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "17:30" },
