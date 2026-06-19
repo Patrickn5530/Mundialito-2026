@@ -1,8 +1,8 @@
 {
   "A": {
     "partidos": [
-      { "eq1": "México", "eq2": "Corea del Sur", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "19:00" },
-      { "eq1": "Chequia", "eq2": "Sudáfrica", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "10:00" },
+      { "eq1": "México", "eq2": "Corea del Sur", "g1": 1, "g2": 0, "fecha": "Jue 18 de Junio", "hora": "19:00" },
+      { "eq1": "Chequia", "eq2": "Sudáfrica", "g1": 1, "g2": 1, "fecha": "Jue 18 de Junio", "hora": "10:00" },
       { "eq1": "México", "eq2": "Chequia", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "19:00" },
       { "eq1": "Sudáfrica", "eq2": "Corea del Sur", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "19:00" },
       { "eq1": "Sudáfrica", "eq2": "México", "g1": 0, "g2": 2, "fecha": "Jue 11 de Junio", "hora": "15:00" },
@@ -13,8 +13,8 @@
     "partidos": [
       { "eq1": "Canadá", "eq2": "Bosnia y Herzegovina", "g1": 1, "g2": 1, "fecha": "Vie 12 de Junio", "hora": "14:00" },
       { "eq1": "Catar", "eq2": "Suiza", "g1": 1, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "17:00" },
-      { "eq1": "Canadá", "eq2": "Catar", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "16:00" },
-      { "eq1": "Suiza", "eq2": "Bosnia y Herzegovina", "g1": "", "g2": "", "fecha": "Jue 18 de Junio", "hora": "13:00" },
+      { "eq1": "Canadá", "eq2": "Catar", "g1": 6, "g2": 0, "fecha": "Jue 18 de Junio", "hora": "16:00" },
+      { "eq1": "Suiza", "eq2": "Bosnia y Herzegovina", "g1": 4, "g2": 1, "fecha": "Jue 18 de Junio", "hora": "13:00" },
       { "eq1": "Suiza", "eq2": "Canadá", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "13:00" },
       { "eq1": "Bosnia y Herzegovina", "eq2": "Catar", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "13:00" }
     ]
