@@ -23,8 +23,8 @@
     "partidos": [
       { "eq1": "Brasil", "eq2": "Marruecos", "g1": 1, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "16:00" },
       { "eq1": "Haití", "eq2": "Escocia", "g1": 0, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "20:00" },
-      { "eq1": "Brasil", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "18:30" },
-      { "eq1": "Escocia", "eq2": "Marruecos", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "16:00" },
+      { "eq1": "Brasil", "eq2": "Haití", "g1": 3, "g2": 0, "fecha": "Vie 19 de Junio", "hora": "18:30" },
+      { "eq1": "Escocia", "eq2": "Marruecos", "g1": 0, "g2": 1, "fecha": "Vie 19 de Junio", "hora": "16:00" },
       { "eq1": "Escocia", "eq2": "Brasil", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" },
       { "eq1": "Marruecos", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" }
     ]
@@ -33,8 +33,8 @@
     "partidos": [
       { "eq1": "Estados Unidos", "eq2": "Paraguay", "g1": 4, "g2": 1, "fecha": "Vie 12 de Junio", "hora": "19:00" },
       { "eq1": "Australia", "eq2": "Turquía", "g1": 2, "g2": 0, "fecha": "Sáb 13 de Junio", "hora": "13:00" },
-      { "eq1": "Estados Unidos", "eq2": "Australia", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "13:00" },
-      { "eq1": "Turquía", "eq2": "Paraguay", "g1": "", "g2": "", "fecha": "Vie 19 de Junio", "hora": "21:00" },
+      { "eq1": "Estados Unidos", "eq2": "Australia", "g1": 2, "g2": 0, "fecha": "Vie 19 de Junio", "hora": "13:00" },
+      { "eq1": "Turquía", "eq2": "Paraguay", "g1": 0, "g2": 1, "fecha": "Vie 19 de Junio", "hora": "21:00" },
       { "eq1": "Turquía", "eq2": "Estados Unidos", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" },
       { "eq1": "Paraguay", "eq2": "Australia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "20:00" }
     ]
