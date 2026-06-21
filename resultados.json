@@ -43,8 +43,8 @@
     "partidos": [
       { "eq1": "Alemania", "eq2": "Curazao", "g1": 7, "g2": 1, "fecha": "Dom 14 de Junio", "hora": "14:00" },
       { "eq1": "Costa de Marfil", "eq2": "Ecuador", "g1": 1, "g2": 0, "fecha": "Dom 14 de Junio", "hora": "18:00" },
-      { "eq1": "Alemania", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "14:00" },
-      { "eq1": "Ecuador", "eq2": "Curazao", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "18:00" },
+      { "eq1": "Alemania", "eq2": "Costa de Marfil", "g1": 2, "g2": 1, "fecha": "Sáb 20 de Junio", "hora": "14:00" },
+      { "eq1": "Ecuador", "eq2": "Curazao", "g1": 0, "g2": 0, "fecha": "Sáb 20 de Junio", "hora": "18:00" },
       { "eq1": "Ecuador", "eq2": "Alemania", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "14:00" },
       { "eq1": "Curazao", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "14:00" }
     ]
@@ -53,8 +53,8 @@
     "partidos": [
       { "eq1": "Países Bajos", "eq2": "Japón", "g1": 2, "g2": 2, "fecha": "Dom 14 de Junio", "hora": "13:00" },
       { "eq1": "Suecia", "eq2": "Túnez", "g1": 5, "g2": 1, "fecha": "Dom 14 de Junio", "hora": "17:00" },
-      { "eq1": "Países Bajos", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "11:00" },
-      { "eq1": "Túnez", "eq2": "Japón", "g1": "", "g2": "", "fecha": "Sáb 20 de Junio", "hora": "22:00" },
+      { "eq1": "Países Bajos", "eq2": "Suecia", "g1": 5, "g2": 1, "fecha": "Sáb 20 de Junio", "hora": "11:00" },
+      { "eq1": "Túnez", "eq2": "Japón", "g1": 0, "g2": 1, "fecha": "Sáb 20 de Junio", "hora": "22:00" },
       { "eq1": "Túnez", "eq2": "Países Bajos", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "17:00" },
       { "eq1": "Japón", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "17:00" }
     ]
