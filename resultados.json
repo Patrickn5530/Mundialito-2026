@@ -63,8 +63,8 @@
     "partidos": [
       { "eq1": "Bélgica", "eq2": "Egipto", "g1": 1, "g2": 1, "fecha": "Lun 15 de Junio", "hora": "20:00" },
       { "eq1": "Irán", "eq2": "Nueva Zelanda", "g1": 2, "g2": 2, "fecha": "Lun 15 de Junio", "hora": "13:00" },
-      { "eq1": "Bélgica", "eq2": "Irán", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "13:00" },
-      { "eq1": "Nueva Zelanda", "eq2": "Egipto", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "19:00" },
+      { "eq1": "Bélgica", "eq2": "Irán", "g1": 0, "g2": 0, "fecha": "Dom 21 de Junio", "hora": "13:00" },
+      { "eq1": "Nueva Zelanda", "eq2": "Egipto", "g1": 1, "g2": 3, "fecha": "Dom 21 de Junio", "hora": "19:00" },
       { "eq1": "Nueva Zelanda", "eq2": "Bélgica", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "21:00" },
       { "eq1": "Egipto", "eq2": "Irán", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "21:00" }
     ]
@@ -74,7 +74,7 @@
       { "eq1": "España", "eq2": "Cabo Verde", "g1": 0, "g2": 0, "fecha": "Lun 15 de Junio", "hora": "16:00" },
       { "eq1": "Arabia Saudita", "eq2": "Uruguay", "g1": 1, "g2": 1, "fecha": "Lun 15 de Junio", "hora": "20:00" },
       { "eq1": "España", "eq2": "Arabia Saudita", "g1": 4, "g2": 0, "fecha": "Dom 21 de Junio", "hora": "10:00" },
-      { "eq1": "Uruguay", "eq2": "Cabo Verde", "g1": "", "g2": "", "fecha": "Dom 21 de Junio", "hora": "16:00" },
+      { "eq1": "Uruguay", "eq2": "Cabo Verde", "g1": 2, "g2": 0, "fecha": "Dom 21 de Junio", "hora": "16:00" },
       { "eq1": "Uruguay", "eq2": "España", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "18:00" },
       { "eq1": "Cabo Verde", "eq2": "Arabia Saudita", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "18:00" }
     ]
