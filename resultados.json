@@ -83,8 +83,8 @@
     "partidos": [
       { "eq1": "Francia", "eq2": "Senegal", "g1": 3, "g2": 1, "fecha": "Mar 16 de Junio", "hora": "18:00" },
       { "eq1": "Irak", "eq2": "Noruega", "g1": 1, "g2": 4, "fecha": "Mar 16 de Junio", "hora": "14:00" },
-      { "eq1": "Francia", "eq2": "Irak", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "15:00" },
-      { "eq1": "Noruega", "eq2": "Senegal", "g1": "", "g2": "", "fecha": "Lun 22 de Junio", "hora": "18:00" },
+      { "eq1": "Francia", "eq2": "Irak", "g1": 3, "g2": 0, "fecha": "Lun 22 de Junio", "hora": "15:00" },
+      { "eq1": "Noruega", "eq2": "Senegal", "g1": 3, "g2": 2, "fecha": "Lun 22 de Junio", "hora": "18:00" },
       { "eq1": "Noruega", "eq2": "Francia", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "13:00" },
       { "eq1": "Senegal", "eq2": "Irak", "g1": "", "g2": "", "fecha": "Vie 26 de Junio", "hora": "13:00" }
     ]
