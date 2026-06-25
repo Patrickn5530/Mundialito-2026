@@ -25,8 +25,8 @@
       { "eq1": "Haití", "eq2": "Escocia", "g1": 0, "g2": 1, "fecha": "Sáb 13 de Junio", "hora": "20:00" },
       { "eq1": "Brasil", "eq2": "Haití", "g1": 3, "g2": 0, "fecha": "Vie 19 de Junio", "hora": "18:30" },
       { "eq1": "Escocia", "eq2": "Marruecos", "g1": 0, "g2": 1, "fecha": "Vie 19 de Junio", "hora": "16:00" },
-      { "eq1": "Escocia", "eq2": "Brasil", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" },
-      { "eq1": "Marruecos", "eq2": "Haití", "g1": "", "g2": "", "fecha": "Mié 24 de Junio", "hora": "16:00" }
+      { "eq1": "Escocia", "eq2": "Brasil", "g1": 0, "g2": 3, "fecha": "Mié 24 de Junio", "hora": "16:00" },
+      { "eq1": "Marruecos", "eq2": "Haití", "g1": 4, "g2": 2, "fecha": "Mié 24 de Junio", "hora": "16:00" }
     ]
   },
   "D": {
