@@ -45,8 +45,8 @@
       { "eq1": "Costa de Marfil", "eq2": "Ecuador", "g1": 1, "g2": 0, "fecha": "Dom 14 de Junio", "hora": "18:00" },
       { "eq1": "Alemania", "eq2": "Costa de Marfil", "g1": 2, "g2": 1, "fecha": "Sáb 20 de Junio", "hora": "14:00" },
       { "eq1": "Ecuador", "eq2": "Curazao", "g1": 0, "g2": 0, "fecha": "Sáb 20 de Junio", "hora": "18:00" },
-      { "eq1": "Ecuador", "eq2": "Alemania", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "14:00" },
-      { "eq1": "Curazao", "eq2": "Costa de Marfil", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "14:00" }
+      { "eq1": "Ecuador", "eq2": "Alemania", "g1": 2, "g2": 1, "fecha": "Jue 25 de Junio", "hora": "14:00" },
+      { "eq1": "Curazao", "eq2": "Costa de Marfil", "g1": 0, "g2": 2, "fecha": "Jue 25 de Junio", "hora": "14:00" }
     ]
   },
   "F": {
