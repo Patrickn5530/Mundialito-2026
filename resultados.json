@@ -138,7 +138,16 @@
     { "id": "16_15", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Vie 03 de Julio", "hora": "17:30" },
     { "id": "16_16", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Vie 03 de Julio", "hora": "21:00" }
   ],
-    "8avos": [],
+    "8avos": [
+      { "id": "8_1", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Sáb 04 de Julio", "hora": "11:00" }
+      { "id": "8_2", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Sáb 04 de Julio", "hora": "15:00" }
+      { "id": "8_3", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Dom 05 de Julio", "hora": "14:00" }
+      { "id": "8_4", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Dom 05 de Julio", "hora": "18:00" }
+      { "id": "8_5", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Lun 06 de Julio", "hora": "13:00" }
+      { "id": "8_6", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Lun 07 de Julio", "hora": "18:00" }
+      { "id": "8_7", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mar 08 de Julio", "hora": "10:00" }
+      { "id": "8_8", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mar 08 de Julio", "hora": "14:00" }
+    ],
     "cuartos": [],
     "semis": [],
     "tercer_lugar": [],
