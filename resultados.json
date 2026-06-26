@@ -148,7 +148,9 @@
     { "id": "8_7", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mar 08 de Julio", "hora": "10:00" },
     { "id": "8_8", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mar 08 de Julio", "hora": "14:00" }
   ],
-    "cuartos": [],
+    "cuartos": [
+      
+    ],
     "semis": [],
     "tercer_lugar": [],
     "final": []
