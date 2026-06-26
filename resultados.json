@@ -55,8 +55,8 @@
       { "eq1": "Suecia", "eq2": "Túnez", "g1": 5, "g2": 1, "fecha": "Dom 14 de Junio", "hora": "17:00" },
       { "eq1": "Países Bajos", "eq2": "Suecia", "g1": 5, "g2": 1, "fecha": "Sáb 20 de Junio", "hora": "11:00" },
       { "eq1": "Túnez", "eq2": "Japón", "g1": 0, "g2": 1, "fecha": "Sáb 20 de Junio", "hora": "22:00" },
-      { "eq1": "Túnez", "eq2": "Países Bajos", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "17:00" },
-      { "eq1": "Japón", "eq2": "Suecia", "g1": "", "g2": "", "fecha": "Jue 25 de Junio", "hora": "17:00" }
+      { "eq1": "Túnez", "eq2": "Países Bajos", "g1": 1, "g2": 3, "fecha": "Jue 25 de Junio", "hora": "17:00" },
+      { "eq1": "Japón", "eq2": "Suecia", "g1": 1, "g2": 1, "fecha": "Jue 25 de Junio", "hora": "17:00" }
     ]
   },
   "G": {
