@@ -115,8 +115,8 @@
       { "eq1": "Ghana", "eq2": "Panamá", "g1": 1, "g2": 0, "fecha": "Mié 17 de Junio", "hora": "17:00" },
       { "eq1": "Inglaterra", "eq2": "Ghana", "g1": 0, "g2": 0, "fecha": "Mar 23 de Junio", "hora": "14:00" },
       { "eq1": "Panamá", "eq2": "Croacia", "g1": 0, "g2": 1, "fecha": "Mar 23 de Junio", "hora": "17:00" },
-      { "eq1": "Panamá", "eq2": "Inglaterra", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "15:00" },
-      { "eq1": "Croacia", "eq2": "Ghana", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "15:00" }
+      { "eq1": "Panamá", "eq2": "Inglaterra", "g1": 0, "g2": 2, "fecha": "Sáb 27 de Junio", "hora": "15:00" },
+      { "eq1": "Croacia", "eq2": "Ghana", "g1": 2, "g2": 1, "fecha": "Sáb 27 de Junio", "hora": "15:00" }
     ]
   },
     "FASE_SIGUIENTE": {
