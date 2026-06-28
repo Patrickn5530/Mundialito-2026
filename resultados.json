@@ -95,8 +95,8 @@
       { "eq1": "Austria", "eq2": "Jordania", "g1": 3, "g2": 1, "fecha": "Mar 16 de Junio", "hora": "19:00" },
       { "eq1": "Argentina", "eq2": "Austria", "g1": 2, "g2": 0, "fecha": "Lun 22 de Junio", "hora": "11:00" },
       { "eq1": "Jordania", "eq2": "Argelia", "g1": 1, "g2": 2, "fecha": "Lun 22 de Junio", "hora": "21:00" },
-      { "eq1": "Jordania", "eq2": "Argentina", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "20:00" },
-      { "eq1": "Argelia", "eq2": "Austria", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "20:00" }
+      { "eq1": "Jordania", "eq2": "Argentina", "g1": 1, "g2": 3, "fecha": "Sáb 27 de Junio", "hora": "20:00" },
+      { "eq1": "Argelia", "eq2": "Austria", "g1": 3, "g2": 3, "fecha": "Sáb 27 de Junio", "hora": "20:00" }
     ]
   },
   "K": {
