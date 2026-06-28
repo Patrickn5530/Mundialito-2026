@@ -105,8 +105,8 @@
       { "eq1": "Uzbekistán", "eq2": "Colombia", "g1": 1, "g2": 3, "fecha": "Mié 17 de Junio", "hora": "20:00" },
       { "eq1": "Portugal", "eq2": "Uzbekistán", "g1": 5, "g2": 0, "fecha": "Mar 23 de Junio", "hora": "11:00" },
       { "eq1": "Colombia", "eq2": "RD Congo", "g1": 1, "g2": 0, "fecha": "Mar 23 de Junio", "hora": "20:00" },
-      { "eq1": "Colombia", "eq2": "Portugal", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "17:30" },
-      { "eq1": "RD Congo", "eq2": "Uzbekistán", "g1": "", "g2": "", "fecha": "Sáb 27 de Junio", "hora": "17:30" }
+      { "eq1": "Colombia", "eq2": "Portugal", "g1": 0, "g2": 0, "fecha": "Sáb 27 de Junio", "hora": "17:30" },
+      { "eq1": "RD Congo", "eq2": "Uzbekistán", "g1": 3, "g2": 1, "fecha": "Sáb 27 de Junio", "hora": "17:30" }
     ]
   },
   "L": {
