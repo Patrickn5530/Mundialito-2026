@@ -122,7 +122,7 @@
     "FASE_SIGUIENTE": {
   "16avos": [
     { "id": "16_1",  "g1": 0, "g2": 1, "pen1": "", "pen2": "", "fecha": "Dom 28 de Junio", "hora": "13:00" },
-    { "id": "16_4",  "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Lun 29 de Junio", "hora": "11:00" },
+    { "id": "16_4",  "g1": 2, "g2": 1, "pen1": "", "pen2": "", "fecha": "Lun 29 de Junio", "hora": "11:00" },
     { "id": "16_2",  "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Lun 29 de Junio", "hora": "14:30", "nombreManual2": "Paraguay" },
     { "id": "16_3",  "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Lun 29 de Junio", "hora": "19:00" },
     { "id": "16_6",  "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mar 30 de Junio", "hora": "11:00" },
