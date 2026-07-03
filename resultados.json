@@ -132,7 +132,7 @@
     { "id": "16_9",  "g1": 3, "g2": 2, "pen1": "", "pen2": "", "fecha": "Mié 01 de Julio", "hora": "14:00", "nombreManual2": "Senegal" },
     { "id": "16_10", "g1": 2, "g2": 0, "pen1": "", "pen2": "", "fecha": "Mié 01 de Julio", "hora": "18:00", "nombreManual2": "Bosnia y Herzegovina" },
     { "id": "16_11", "g1": 3, "g2": 0, "pen1": "", "pen2": "", "fecha": "Jue 02 de Julio", "hora": "13:00" },
-    { "id": "16_12", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Jue 02 de Julio", "hora": "17:00" },
+    { "id": "16_12", "g1": 2, "g2": 1, "pen1": "", "pen2": "", "fecha": "Jue 02 de Julio", "hora": "17:00" },
     { "id": "16_13", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Jue 02 de Julio", "hora": "21:00", "nombreManual2":"Argelia" },
     { "id": "16_14", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Vie 03 de Julio", "hora": "12:00" },
     { "id": "16_15", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Vie 03 de Julio", "hora": "16:00" },
