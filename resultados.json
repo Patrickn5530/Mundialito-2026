@@ -149,8 +149,8 @@
     { "id": "8_8", "ganadorManual": "","ganadorManual2": "", "g1": 0, "g2": 0, "pen1": 4, "pen2": 3, "fecha": "Mar 07 de Julio", "hora": "14:00" }
   ],
   "cuartos": [
-    { "id": "4_1", "g1": 0, "g2": 2, "pen1": "", "pen2": "", "fecha": "Jue 09 de Julio", "hora": "14:00" },
-    { "id": "4_3", "g1": 2, "g2": 1, "pen1": "", "pen2": "", "fecha": "Vie 10 de Julio", "hora": "13:00" },
+    { "id": "4_1", "g1": 2, "g2": 0, "pen1": "", "pen2": "", "fecha": "Jue 09 de Julio", "hora": "14:00" },
+    { "id": "4_3", "g1": 1, "g2": 2, "pen1": "", "pen2": "", "fecha": "Vie 10 de Julio", "hora": "13:00" },
     { "id": "4_2", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Sáb 11 de Julio", "hora": "15:00" },
     { "id": "4_4", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Sáb 11 de Julio", "hora": "19:00" }
   ],
