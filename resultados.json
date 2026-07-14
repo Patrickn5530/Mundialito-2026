@@ -155,7 +155,7 @@
     { "id": "4_4", "g1": 3, "g2": 1, "pen1": "", "pen2": "", "fecha": "Sáb 11 de Julio", "hora": "19:00" }
   ],
   "semis": [
-    { "id": "2_1", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mar 14 de Julio", "hora": "13:00" },
+    { "id": "2_1", "g1": 0, "g2": 2, "pen1": "", "pen2": "", "fecha": "Mar 14 de Julio", "hora": "13:00" },
     { "id": "2_2", "g1": "", "g2": "", "pen1": "", "pen2": "", "fecha": "Mié 15 de Julio", "hora": "13:00" }
   ],
   "tercer_lugar": [
